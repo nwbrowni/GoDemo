@@ -1,0 +1,28 @@
+START ACCOUNT
+Nathan
+Browning
+7796 N Wildrose Ct
+
+Bloomington
+Indiana
+47404
+22
+5
+1999
+ningbrow1999
+password
+END ACCOUNT
+START ACCOUNT
+Nate
+Brow
+123 Street Rd
+
+City
+State
+12345
+1
+1
+2000
+user
+pass
+END ACCOUNT

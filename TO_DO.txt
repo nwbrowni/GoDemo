@@ -1,0 +1,16 @@
+Other:
+   	- add user and admin accounts... try to fake inheritance (interface?)
+
+Build Account Menus (STARTED):
+    - fill out functions to edit name (DONE), address (DONE), and birthday in menus (accounts.go)
+    - add save for changes made to the account in the menu (STARTED)
+        - right now AccountMainMenu updates the client that it is run on
+        - if now the account list needs to be updated with the new version of that account before saved at end of AccountMainMenu
+
+Move Most of Main into App
+    - create a function called Run()
+        - from there call StartUp
+        - from there work with client account
+        - maybe do the accountlist load/save from Run() as well
+    - main only calls Run()
+
